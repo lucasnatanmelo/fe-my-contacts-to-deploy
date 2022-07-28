@@ -3,7 +3,7 @@ import { Container } from './styles';
 
 import ToastMessage from '../ToastMessage';
 
-import { toastEventMager } from '../../utils/toast';
+import { toastEventManager } from '../../utils/toast';
 
 export default function ToastContainer() {
     const [messages, setMessages] = useState([]);
@@ -21,10 +21,10 @@ export default function ToastContainer() {
             ]);
         }
 
-        toastEventMager.on('addtoast', handleAddToast);
+        toastEventManager.on('addtoast', handleAddToast);
 
         return () => {
-            toastEventMager.removeListener('addtoast', handleAddToast);
+            toastEventManager.removeListener('addtoast', handleAddToast);
         };
     }, []);
 

@@ -1,7 +1,7 @@
 import EventManager from '../../lib/EventManager';
 
-export const toastEventMager = new EventManager();
+export const toastEventManager = new EventManager();
 
 export default function toast({ type, text, duration }) {
-    toastEventMager.emit('addtoast', { type, text, duration });
+    toastEventManager.emit('addtoast', { type, text, duration });
 }
