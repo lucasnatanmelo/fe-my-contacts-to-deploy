@@ -162,7 +162,7 @@ export default function Home() {
           {(!hasError && contacts.length > 0) && (
             <strong>
                 {filteredContacts.length}
-                {filteredContacts.length === 1 ? ' contato' : ' modificado contatos'}
+                {filteredContacts.length === 1 ? ' contato' : ' contatos'}
             </strong>
         )}
           <Link to="/new">Novo Contato</Link>
