@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# MyContacts - Front-end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto em React para gerenciamento de contatos.
 
-## Available Scripts
+Desenvolvido no curso JStack.
 
-In the project directory, you can run:
+### Link para acesso:
 
-### `yarn start`
+https://mycontacts-chi.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Instalação:
+- `yarn install`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Parar inicializar:
+- `yarn start`
 
-### `yarn test`
+### Requisitos:
+- NodeJS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ReactJS
 
-### `yarn build`
+### Desktop
+![image](https://user-images.githubusercontent.com/100950738/172732847-c313aec5-e8d4-4110-84b0-1ff36e4794fb.png)
+![image](https://user-images.githubusercontent.com/100950738/172732901-d61c6dd0-d4e7-40ae-830b-2a2b3301fb50.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Mobile - Iphone XR
+![image](https://user-images.githubusercontent.com/100950738/172732962-0895449f-4999-4098-994c-7e2633e7923e.png)
+![image](https://user-images.githubusercontent.com/100950738/172733018-4b267216-7078-497c-a695-97c81ade4bcf.png)
